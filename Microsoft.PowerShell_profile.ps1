@@ -7,7 +7,7 @@
 #Set-Alias ls Get-ChildItemColorFormatWide -Option AllScope
 #Set-Alias dir Get-ChildItemColorFormatWide -Option AllScope
 
-# PSColor is useful but incompatible with Terminal-Icons
+# PSColor is useful but incompatible with Terminal-Icons unfortunately
 #Import-Module PSColor
 Import-Module posh-git
 Import-Module oh-my-posh
